@@ -1,5 +1,5 @@
 {
-  "name": "toiniubot",
+  "name": "Premiiado",
   "version": "0.0.2",
   "description": "Only termux",
   "main": "index.js",
@@ -40,10 +40,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vinizeus/zeusbot.git"
+    "url": "git+https://github.com/Premiiado/opremiiado.git"
   },
   "bugs": {
-    "url": "https://github.com/vinizeus/zeusbot.git"
+    "url": "https://github.com/Premiiado/opremiiado.git"
   },
-  "homepage": "https://github.com/vinizeus/zeusbot#readme"
+  "homepage": "https://github.com/Premiiado/opremiiado.git#readme"
 }
