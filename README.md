@@ -35,7 +35,7 @@ Siga os passos abaixo!
 ```bash
 > npm start
 > leia o códico QR e após isso de um exit
-> cd ptzeus
+> cd opremiiado
 > npm i -g pm2
 > pm2 start index.js
 > pm2 monit
